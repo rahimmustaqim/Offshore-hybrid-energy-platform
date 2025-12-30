@@ -8,7 +8,7 @@ over excessive complexity.
 The platform integrates wind, wave, and solar energy systems
 through a shared offshore structure (fixed or floating).
 
----
+----
 
 ## 1. Wind Field Model
 
